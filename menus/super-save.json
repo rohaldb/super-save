@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle super-save",
+        "command": "super-save:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "super-save",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "super-save:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
