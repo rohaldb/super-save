@@ -2,10 +2,10 @@
   "name": "super-save",
   "main": "./lib/super-save",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Displays a motivational message whenever you save",
   "keywords": [],
   "activationCommands": {},
-  "repository": "https://github.com/atom/super-save",
+  "repository": "https://github.com/rohaldbUni/super-save",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
