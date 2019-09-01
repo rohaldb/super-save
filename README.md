@@ -1,5 +1,7 @@
 # super-save package
 
-A short description of your package.
+Super-Save is a package that displays a motivational message whenever you save.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+There is a 5 second timer to avoid issues when save is spammed.
+
+![](https://media.giphy.com/media/W2hbEBOdopJWWm3SlS/giphy.gif)
