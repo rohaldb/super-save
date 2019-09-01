@@ -1,4 +1,4 @@
-# super-save package
+# super-save
 
 Super-Save is a package that displays a motivational message whenever you save.
 
